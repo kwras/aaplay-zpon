@@ -96,7 +96,8 @@ prefix=Aa
 // Keep in mind that being connected to a voice channel uses additional bandwith,
 // so this option is not recommended if bandwidth is a concern.
 //
-//stayinchannel=true
+//
+stayinchannel=true
 
 
 // This sets the maximum amount of seconds any track loaded can be. If not set or set
